@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+*.app/
+*.asar
+*.dmg
+*.zip
+*.log
+*.plist
+backups/
+state/
+dist/
+.claude-browser-bypass-patch.lock
